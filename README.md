@@ -24,12 +24,13 @@ Crie um arquivo .env na raiz do projeto e configure as variáveis de ambiente ne
 
 Exemplo:
 
+```.env
 NEXT_PUBLIC_SCOOB_AUTHORIZATION=
 NEXT_PUBLIC_CLIENT_ID=
 NEXT_PUBLIC_BASE_URL=
 NEXT_PUBLIC_BASE_URL_ACCOUNT=
 NEXT_PUBLIC_SCOOB_ACCOUNT_NUMBER=
-
+```
 
 ###Execução
 Para rodar o projeto em ambiente de desenvolvimento, utilize um dos comandos abaixo:
