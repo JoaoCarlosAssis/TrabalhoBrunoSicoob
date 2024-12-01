@@ -1,16 +1,16 @@
 ## Projeto API de Consulta - Banco Sicoob
 
-###Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 Certifique-se de ter os seguintes softwares instalados antes de iniciar:
 Node.js (versão 16 ou superior)
 NPM ou Yarn
 
-###Instalação
+### Instalação
 ```bash
 git clone https://github.com/JoaoCarlosAssis/TrabalhoBrunoSicoob.git
 ```
-###Instale as dependências do projeto:
+### Instale as dependências do projeto:
 
 Usando NPM:
 ```bash
